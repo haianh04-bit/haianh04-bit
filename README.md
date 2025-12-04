@@ -17,55 +17,58 @@
 ## 🚀 Kỹ năng chính
 
 ### 🔧 Backend
-- Java Core, OOP, Collections  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="50" />
+</p>
+
+- Java Core, OOP  
 - Spring Boot / Spring MVC  
-- Spring Security, JWT  
 - Hibernate / JPA  
+- Spring Security / JWT  
 - RESTful API, JDBC  
-- MySQL, SQL
+- MySQL, SQL  
+
+---
 
 ### 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
+</p>
+
 - HTML, CSS, JavaScript  
 - ReactJS  
-- Bootstrap / TailwindCSS
+- Bootstrap / TailwindCSS  
+
+---
 
 ### 🛠 Công cụ
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+</p>
+
 - Git, GitHub  
 - Postman  
-- Docker (cơ bản)  
+- IntelliJ IDEA, VS Code  
 - Gradle, Maven  
-- IntelliJ IDEA, VS Code
 
 ---
 
-## 📌 Dự án tiêu biểu
-
-### 🛒 **E-Commerce Website (Spring Boot + React)**
-- Đăng ký / đăng nhập + phân quyền  
-- CRUD sản phẩm + quản lý đơn hàng  
-- Giỏ hàng & thanh toán  
-**Tech:** Spring Boot, JPA, MySQL, React, JWT
-
----
-
-### 🎵 **Music Manager App**
-- Upload bài hát, phát nhạc trên web  
-- CRUD bài hát & thể loại  
-**Tech:** Spring MVC, Hibernate, Bootstrap
-
----
-
-### 📚 **Library Borrowing System**
-- Mượn – trả sách, sinh mã 5 chữ số  
-- Log tất cả thao tác & lượt truy cập  
-**Tech:** Spring MVC, JPA
-
----
 
 ## 📫 Liên hệ
-- 📧 Email: youremail@example.com  
-- 🌐 LinkedIn: https://linkedin.com/in/your-profile  
-- 🐱 GitHub: https://github.com/your-username
+- 📧 Email: phamhaianhpc10@gmail.com
+- 🐱 GitHub: https://github.com/haianh04-bit
 
 ---
 
