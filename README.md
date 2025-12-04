@@ -80,13 +80,6 @@
 
 ---
 
-## ⭐ Fun Facts
-- Yêu thích Clean Code  
-- Mê backend và tối ưu hiệu năng  
-- Thích uống cà phê ☕ khi code
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
