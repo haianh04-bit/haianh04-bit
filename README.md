@@ -83,6 +83,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150" />
+ <img 
+    src="https://stats.dooboo.io/api/github-stats?login=haianh04-bit&theme=tokyonight" 
+    height="170"
+    style="margin-right: 20px; border-radius: 12px;"
+  />
+
+  <img 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=haianh04-bit&layout=compact&theme=tokyonight"
+    height="170"
+    style="border-radius: 12px;"
+  />
 </p>
+
+---
+# 🔥 **Biểu đồ đóng góp**
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazyosha&theme=react-dark&hide_border=true&area=true" width="95%"/>
+
+</div>
