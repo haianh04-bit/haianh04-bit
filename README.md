@@ -7,10 +7,10 @@
 ---
 
 ## 🧑‍💻 Về tôi
-- Đam mê phát triển ứng dụng web backend với Java.  
-- Thành thạo Spring Boot, Spring MVC, REST API, Hibernate/JPA.  
-- Hướng đến code sạch, logic rõ ràng, dễ mở rộng.  
-- Luôn học hỏi và cập nhật công nghệ mới.
+- Đam mê phát triển ứng dụng web full-stack: thiết kế API backend bằng Java (Spring Boot, Spring MVC, Hibernate/JPA) và xây dựng giao diện người dùng với React / HTML / CSS / Tailwind / Bootstrap.
+- Thành thạo xây dựng RESTful API, xử lý dữ liệu, xác thực/ủy quyền, đồng thời tối ưu trải nghiệm frontend và tích hợp giữa client — server.
+- Hướng tới code sạch, unit test, thiết kế mô-đun và kiến trúc dễ mở rộng, dễ bảo trì.
+- Luôn chủ động học hỏi công nghệ mới, áp dụng best practices về DevOps, CI/CD và tối ưu hiệu năng.
 
 ---
 
