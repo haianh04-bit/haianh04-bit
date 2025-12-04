@@ -100,6 +100,6 @@
 # 🔥 **Biểu đồ đóng góp**
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazyosha&theme=react-dark&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haianh04-bit&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
 </div>
